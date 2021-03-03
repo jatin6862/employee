@@ -1,2 +1,0 @@
-# employee
-CRUD Golang SQL
